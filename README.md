@@ -17,3 +17,7 @@ Its features are:
 
 
 I learnt a lot about writing code for hardware, how to refactor code so it uses as less memory as possible, how to only redraw the screen when new content is registered, and how to get sensor data as input.
+
+This is how the start looked:
+<img width="666" height="347" alt="Screenshot 2026-08-06 at 17 38 37" src="https://github.com/user-attachments/assets/88967082-1c3f-4462-b0f8-7a3963b6f02e" />
+And the full demo is on the Macondo project page: https://macondo.hackclub.com/projects/13737
